@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "News"
+title: "Under decoration"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
