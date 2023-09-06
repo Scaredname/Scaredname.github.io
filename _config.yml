@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Runyu Ni"
 title_separator          : "-"
 name                     : &name "Runyu Ni"
 description              : &description "Lifelong learner / idealist"
@@ -83,11 +83,11 @@ author:
   name             : "Runyu Ni/ 倪 润宇/ ニ ルンユ"
   avatar           : "me.jpg"
   bio              : "PhD student"
-  location         : "6-6 Asahigaoka, Hino-shi,  \n Tokyo 191-0065, Japan"
+  location         : "Hino-shi, Tokyo, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ni-runyu[at] ed.tmu.ac.jp"
+  email            : ni-runyu@ed.tmu.ac.jp
   researchgate     : https://www.researchgate.net/profile/Runyu-Ni-2
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/Scaredname
+  github           : "Scaredname"
   google_plus      :
   keybase          :
   instagram        :
