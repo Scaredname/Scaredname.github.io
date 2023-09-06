@@ -83,12 +83,12 @@ author:
   name             : "Runyu Ni/ 倪 润宇/ ニ ルンユ"
   avatar           : "me.jpg"
   bio              : "PhD student"
-  location         : "6-6 Asahigaoka, Hino-shi, Tokyo 191-0065, Japan"
+  location         : "6-6 Asahigaoka, Hino-shi,  \n Tokyo 191-0065, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : ni-runyu[at]ed.tmu.ac.jp
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "ni-runyu[at] ed.tmu.ac.jp"
+  researchgate     : https://www.researchgate.net/profile/Runyu-Ni-2
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : https://github.com/Scaredname
   google_plus      :
   keybase          :
   instagram        :
