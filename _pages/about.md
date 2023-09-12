@@ -16,7 +16,7 @@ Hello, my name is 倪潤宇 (Ni Runyu), from Ningxia Hui Autonomous Region, Chin
 
 - 2018 Bachelor of Engineering, University of Science and Technology Beijing
 - 2021 Master of Engineering, University of Science and Technology Beijing
-- 2021-present, studying for a PhD in Takama Lab (https://krectmt3.sd.tmu.ac.jp/en/index.html), Tokyo Metropolitan Unviersity.
+- 2021-present, studying for a PhD in [Takama Lab](https://krectmt3.sd.tmu.ac.jp/en/index.html), Tokyo Metropolitan University.
 
 ### Research
 
@@ -25,7 +25,7 @@ My research focuses on knowledge reasoning, specifically in the field of Knowled
 ### Hobby
 
 - Anime
-  - 風が強く吹いている、
+  - 風が強く吹いている
   - 日常
   - 斉木楠雄の災難
 - Jogging
