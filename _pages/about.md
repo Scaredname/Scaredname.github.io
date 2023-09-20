@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<font size = 7> "日々、私たちが過ごしている日常は、実は奇跡の連続なのかもしれない。" </font>
+
+---
+
 ## About me
 
 Hello, my name is 倪潤宇 (Ni Runyu), from Ningxia Hui Autonomous Region, China.
