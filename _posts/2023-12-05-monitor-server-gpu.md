@@ -1,5 +1,5 @@
 ---
-title: "Check GPU whether working and then send email"
+title: "Monitor server GPUs"
 date: 2023-12-05
 permalink: /posts/2023/12/monitor-server-gpu/
 tags:
