@@ -1,12 +1,12 @@
 ---
-title: "Learning Framework of Entity and Entity Type Composition Representation for Knowledge Graph Completion"
+title: "Specific Time Embedding for Temporal Knowledge Graph Completion"
 collection: publications
-permalink: /publication/EETCRL
+permalink: /publication/tkgc
 # excerpt: "This paper is about the number 2. The number 3 is left for future work."
-date: 2022-01-01
+date: 2020-09-26
 # venue: "Journal 1"
 # paperurl: "http://academicpages.github.io/files/paper2.pdf"
-citation: "R. Ni, H. Shibata and Y. Takama, 'Learning Framework of Entity and Entity Type Composition Representation for Knowledge Graph Completion,' 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 3687-3691, doi: 10.1109/BigData55660.2022.10020261."
+citation: "R. Ni, Z. Ma, K. Yu and X. Xu, 'Specific Time Embedding for Temporal Knowledge Graph Completion,' 2020 IEEE 19th International Conference on Cognitive Informatics & Cognitive Computing (ICCI*CC), Beijing, China, 2020, pp. 105-110, doi: 10.1109/ICCICC50026.2020.9450214."
 ---
 
 <!-- Abstract:

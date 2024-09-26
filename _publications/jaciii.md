@@ -1,12 +1,12 @@
 ---
-title: "Learning Framework of Entity and Entity Type Composition Representation for Knowledge Graph Completion"
+title: "Entity and Entity Type Composition Representation Learning for Knowledge Graph Completion"
 collection: publications
-permalink: /publication/EETCRL
+permalink: /publication/jaciii
 # excerpt: "This paper is about the number 2. The number 3 is left for future work."
-date: 2022-01-01
+date: 2023-11-20
 # venue: "Journal 1"
 # paperurl: "http://academicpages.github.io/files/paper2.pdf"
-citation: "R. Ni, H. Shibata and Y. Takama, 'Learning Framework of Entity and Entity Type Composition Representation for Knowledge Graph Completion,' 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 3687-3691, doi: 10.1109/BigData55660.2022.10020261."
+citation: "R. Ni, H. Shibata, and Y. Takama, “Entity and Entity Type Composition Representation Learning for Knowledge Graph Completion,” J. Adv. Comput. Intell. Intell. Inform., Vol.27 No.6, pp. 1151-1158, 2023."
 ---
 
 <!-- Abstract:
